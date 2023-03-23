@@ -1,0 +1,24 @@
+- Include name in big letters at top
+- have multiple tabs for About, Portfolio, Resume
+- cute fun designs
+- GOOD PROJECTS TO INCLUDE:
+    - face detection
+    - e-authentication system
+    - android battery power system analyzer
+    - symbol recognition
+    - online auction
+    - senior capstone
+- include github repositories
+- include professional social media
+- Relevant Coursework:
+    - Data Structures
+    - Cybersecurity
+    - Networking and Data Communications
+    - Database Design and Management
+    - Logic and Artifical Intelligence
+    - Advanced Web Programming
+    - Mobile Development
+    - Game Programming
+
+eductaion: rgb(196, 239, 253);
+projects: lightskyblue
