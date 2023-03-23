@@ -56,13 +56,12 @@ h1{
 }
 
 .resume{
-    height:100%;
     margin:auto;
     background-color: rgb(81, 152, 196);
     padding-top:10px;
     padding-left: 100px;
     padding-right: 100px;
-    padding-bottom: 250px;
+    padding-bottom:10px;
     text-align: center;
 }
 
