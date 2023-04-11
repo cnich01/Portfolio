@@ -39,20 +39,30 @@ h1{
     width:70%
 }
 
+.stats{
+    margin:auto;
+    text-align: center;
+    background-color: lightskyblue;
+    padding-top:10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
 .education{
     margin:auto;
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(100, 170, 213);
     padding-top:10px;
     padding-left: 100px;
     padding-right: 100px;
 }
 
 .projects{
-    background-color: rgb(155, 210, 230);
+    background-color: steelblue;
     padding-top: 10px;
     padding-bottom: 125px;
     padding-left: 100px;
     padding-right: 100px;
+    color:white;
 }
 
 .resume{
@@ -103,9 +113,9 @@ h1{
 }
 
 .learnMoreBtn a{
-    border: 2px solid darkslateblue;
+    border: 2px solid white;
     padding: 5px;
-    color: darkslateblue;
+    color: white;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -114,6 +124,14 @@ h1{
     margin:3px;
     display: inline-block;
     border: 1px solid darkslateblue;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.skillWhite{
+    margin:3px;
+    display: inline-block;
+    border: 1px solid white;
     padding: 5px;
     border-radius: 10px;
 }
